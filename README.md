@@ -1,7 +1,8 @@
 # Pierre-Feuille-Ciseaux
 
 Ce programme permet de jouer au jeu du pierre, feuille, ciseaux contre l'ordinateur. Vous pouvez quitter le jeu à tout moment en saisissant 0. Les règles du jeu sont les suivantes :
-#roadmap
+
+roadmap
 
 - Pierre bat ciseaux
 - Feuille bat pierre
