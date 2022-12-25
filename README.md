@@ -7,6 +7,8 @@ Ce programme permet de jouer au jeu du pierre, feuille, ciseaux contre l'ordinat
 - Pierre bat ciseaux
 - Feuille bat pierre
 - Ciseaux bat feuille
+
+
 A la fin de chaque tour, un tableau de scores est affiché indiquant le nombre de points de chaque joueur. La partie se termine lorsque l'un des joueurs quitte le jeu. Si c'est vous qui quittez, un récapitulatif des scores sera affiché avec le résultat de la partie.
 
 # Execution
